@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:16:1-42:12
+	package
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:17:5-48
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:19:5-40:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\0b5dd11b09367df5809e4339657b3f0dbdc968e1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\fce7feeb6525b78436c77d287cfdeb2111f98791\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\b23f25020dda4f258459145f94cc188623714d94\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\4a9342cbc42b716726ad565700cf7a185721cf12\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\154c122327a15e178bdb2ae8c00776aabe72ea1b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\5a29da437420489e4e8cea2afb469059bd466d48\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\6138868b2835d6e7f838db381767eef5086caa9c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\1c51310824ae34b890dc6840a0efc7dd7c8bcc5f\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\8908e02b2b365c8deee18d28a825aaa2e439bfe2\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:23:9-35
+	android:allowBackup
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.twoactivities.MainActivity
+ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.android.twoactivities.SecondActivity
+ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:34:13-51
+	android:parentActivityName
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:33:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:36:13-38:82
+	android:value
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:38:17-79
+	android:name
+		ADDED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml:37:17-63
+uses-sdk
+INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\0b5dd11b09367df5809e4339657b3f0dbdc968e1\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\fce7feeb6525b78436c77d287cfdeb2111f98791\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\b23f25020dda4f258459145f94cc188623714d94\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\4a9342cbc42b716726ad565700cf7a185721cf12\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\154c122327a15e178bdb2ae8c00776aabe72ea1b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\5a29da437420489e4e8cea2afb469059bd466d48\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\6138868b2835d6e7f838db381767eef5086caa9c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\1c51310824ae34b890dc6840a0efc7dd7c8bcc5f\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\8908e02b2b365c8deee18d28a825aaa2e439bfe2\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Ima Nurfitriani\.android\build-cache\0b5dd11b09367df5809e4339657b3f0dbdc968e1\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\TwoActivitiesEspressoTest-master\app\src\main\AndroidManifest.xml
